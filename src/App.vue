@@ -5,7 +5,7 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
   <header class= "main-header">
     <div class="logo-section">
-      <h1>Bird Call Training App</h1>
+      <h1>TRFO Bird Call Training App</h1>
       <p>Made by <a href="https://schmidtynotes.com">Mike Schmidt</a></p>
     </div>
 
